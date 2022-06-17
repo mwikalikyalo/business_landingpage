@@ -2,17 +2,22 @@
   background-color: #1c1938;
   height: 100vh;
   overflow: hidden;
+  padding: 5%;
 }
+
 .blue{
   color: #593b7d;
 }
+
 .row{
   color: white;
 }
 
+ul, li{
+  padding: 2%;
+}
 img{
   background-image: url(./business.jpg);
-
   height: 100vh;
   width: 80vh;
   float: right;

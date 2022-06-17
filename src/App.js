@@ -13,9 +13,9 @@ function App() {
   regarding revenue, customer experience and overall efficiency.</p>
   </div>
   <ul className='text-start'>
-    <li className="list-inline-item"><span className='h5'>10K+ </span> COMPANIES</li>
-    <li className="list-inline-item"><span className='h5'>314 </span> TEMPLATES</li>
-    <li className="list-inline-item"><span className='h5'>12M+ </span> QUERIES</li>
+    <li className="list-inline-item"><span className='h5'>10K+ </span><br /> COMPANIES</li>
+    <li className="list-inline-item"><span className='h5'>314 </span><br />TEMPLATES</li>
+    <li className="list-inline-item"><span className='h5'>12M+ </span><br /> QUERIES</li>
   </ul>
   </div>
   <div className="img-fluid">
