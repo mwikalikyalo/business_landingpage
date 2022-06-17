@@ -1,6 +1,6 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import image from 'business.jpg';
+import image from './business.jpg';
 
 function App() {
   return (
