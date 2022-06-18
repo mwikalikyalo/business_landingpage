@@ -1,8 +1,8 @@
 .App {
-  background-color: #1c1938;
   height: 100vh;
   overflow: hidden;
-  padding: 5%;
+  padding: 10%;
+  background-color: #0a0c1b;
 }
 
 .blue{
@@ -14,21 +14,32 @@
 }
 
 p{
-  padding: 2%;
+  padding: 5%;
+  clear: right;
 }
 
 ul, li{
   padding: 5px;
-  border: 10px;
+  border: 5px;
   font-size: 14px;
 }
 
+.container-fluid{
+  background-color: #1c1938;
+  padding: 50px;
+}
+
+h2{
+  padding: 15px;
+}
+
 img{
-  background-image: url(./business.jpg);
-  height: 100vh;
-  width: 80vh;
+  background-image: linear-gradient(to right, rgba(89, 59, 125, 0.5)), (rgba(89, 59, 125, 0.5));
+  height: 61vh;
+  width: 75vh;
   float: right;
   position: relative;
-  top: -15em;
+  top: -26em;
+  right: -0.7em;
   overflow-y: hidden;
 }

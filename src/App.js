@@ -4,10 +4,10 @@ import image from './business.jpg';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App d-flex">
   <div className= "container-fluid">
-  <div className="row">
-  <div className="col-6">
+  <div className="row gx-5 box">
+  <div className="col-6 p-3">
   <h2>Get <span className='blue'>insights</span>  that help your business grow.</h2>
   <p className="text-center"> Discover the benefits of data analytics and make better decisions 
   regarding revenue, customer experience and overall efficiency.</p>
