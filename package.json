@@ -2,7 +2,7 @@
   "name": "business",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mwikalikyalo.github.io",
+  "homepage": "https://mwikalikyalo.github.io/business_landingpage/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
